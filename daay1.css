@@ -1,0 +1,26 @@
+.d1{
+    background-color: rgb(175, 226, 245);
+}
+#p1{
+    background-color: rgb(156, 72, 234);
+}
+#p2{
+    background-color: pink;
+}
+#t1{
+    background-color: rgb(34, 178, 178);
+}
+#t2{ text-align: center;
+    background-color:bisque;
+}
+#t3{
+    background-color: rgb(34, 178, 178);
+    text-align: center;
+}
+.dd{
+    width: 70%;
+}
+
+table{
+        height: 150px;
+}
